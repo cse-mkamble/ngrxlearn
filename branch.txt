@@ -1,0 +1,11 @@
+#2: Basic Setup for NgRx
+#3: How redux works?
+#4: Using our first reducer and state
+#5: Refactoring our Reducer code
+#6: Proper error handling
+#7: Debugging our ngrx store
+#8: CRUD Item in ngrx
+#9: Using Entities and Id in redux
+#10: View Single Item
+#11: Creating post reducer
+#12: Completing post reducer

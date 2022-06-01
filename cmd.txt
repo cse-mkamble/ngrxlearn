@@ -1,0 +1,22 @@
+
+# Create App
+ng new ngrxlearn
+
+# Run App
+ng serve -o
+
+# Package Install
+ng add @angular/material
+npm i @angular/flex-layout@7.0.0-beta.23
+
+# Create Containers && Containers List
+ng g c containers/post
+ng g c containers/user
+
+# Create Components && Components List
+ng g c components/layout/dashboard
+ng g c components/layout/header
+ng g c components/layout/youtube-layout
+
+ng g c components/user-list
+ng g c components/user-card
